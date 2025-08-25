@@ -66,12 +66,10 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 <h2>
   EDUCATION
 </h2>
-  ------2024
+ 
  <div>
     BS.c Computer Science, University of Uyo, Nigeria 
-  <span align="center">
-    ⭐ This text is centered ⭐
-  </span>
+  
 
  </div>
 
@@ -81,7 +79,13 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
   CERTIFICATIONS
 </h2>
    *   Frontend Engineering Certificate-Top Universe Internship
-   *   QA Tester Certificate- HNG.Tech Internship
+   *   QA Tester Certificate- HNG.Tech Internship https://drive.google.com/file/d/1kdVG-chX76PGGZAhSi80FdMmLhvSvR4V/view?usp=
+   
+   <p align="center">
+  <a href="https://github.com">
+    <img src="https://drive.google.com/file/d/1kdVG-chX76PGGZAhSi80FdMmLhvSvR4V/view?usp=" alt="Clickable Image" />
+  </a>
+</p>
 
 
   <h2>
