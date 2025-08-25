@@ -14,12 +14,14 @@
 
 
 
-
+<h>
   <span align="center" style="color:blue;  font-size:200px;">
     Utibe Effiong
   </span>
 
+<h32>
 
+  
 <h3 align="center">QA Engineer</h3>
 <p align="center">utibenoaheffiong@gmail.com</p>
 <p align="center">GitHub| LinkedIn</p>
