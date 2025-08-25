@@ -87,10 +87,10 @@ Tester | January 2024 – March 2024 (Remote – Contract – Nigeria)
 <h2>
   PERSONAL PROJECT
 </h2>
-    <b>API Test Automation Framework [Click](https://www.expresjs.org/)
+    <b>API Test Automation Framework 
 </b><br>
-    This framework design ensures maintainable and readable testcode, relaible test execution with retry mechanisms and clear separtion of concern.
-
+    This framework design ensures maintainable and readable testcode, relaible test execution with retry mechanisms and clear separtion of concern.![MongoDB](https://img.shields.io/badge/MongoDB-v8.0.0-brightgreen)
+[Click](https://www.expresjs.org/)
   #### Implentation Pattern
   - API Client; to encapsulate Http operations and session management.
   - Custom assertions; implement using *chai assertion library* to allow testcases to focus on the intent rather than the mechanics of verifications
