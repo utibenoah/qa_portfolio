@@ -1,4 +1,4 @@
-<h1 align="center">Utibe Effiong</h1>
+<h1 align="center" color="red">Utibe Effiong</h1>
 
 <h3 align="center">QA Engineer</h3>
 ### QA Engineer
