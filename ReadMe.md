@@ -10,7 +10,6 @@
          style="border-radius:50%;" />
   </a>
 
-  jjffjfff
 </p>
 
 
