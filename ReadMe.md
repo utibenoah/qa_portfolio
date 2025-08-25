@@ -14,7 +14,7 @@
 
 
  <h3 align="center"> Utibe Effiong</h3>
-<h3 align="center">QA Engineer</h3>
+<h4 align="center">QA Engineer</h4>
 <p align="center">utibenoaheffiong@gmail.com</p>
 <p align="center">GitHub| LinkedIn</p>
 
