@@ -89,7 +89,7 @@ Tester | January 2024 – March 2024 (Remote – Contract – Nigeria)
 </h2>
     <b>API Test Automation Framework  [![Alt text](https://via.placeholder.com/150)](https://github.com)
 </b><br>
-[click here](https://github.com/utibenoah/api_test_automation_framwork)
+[Link](https://www.github.com/utibenoah/api_test_automation_framwork)
     This framework design ensures maintainable and readable testcode, relaible test execution with retry mechanisms and clear separtion of concern.
 
   #### Implentation Pattern
