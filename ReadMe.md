@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <span style="color:blue;">
+  <span style="color:blue;  font-size:200px;">
     Utibe Effiong
   </span>
 </h1>
