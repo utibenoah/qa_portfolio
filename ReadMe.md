@@ -28,14 +28,6 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 
 
 
-<h2>
-  SKILLS
-</h2>
-  <b>Testing:</b> Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Exploratory Testing, End-to-End Testing, Usability Testing, Performance Testing.<br>
-  <b>Tools:</b>Playwright, Cypress, Appium, Jest, Mocha,Postman, Newman,K6, JMeter, JavaScript, TypeScript (OOP),GitHub Actions, Git, CI/CD pipelines,Grafana, Prometheus.
-
-
-
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
@@ -51,6 +43,16 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 - Skilled in developing and executing end-to-end automation scripts using Playwright and Cypress for efficient web application testing.
 - Proficient in Object-Oriented Programming (OOP) principles using JavaScript in client/server environments such as Node.js and Express.
 - Excellent communication, documentation, problem-solving, and team collaboration skills
+
+
+
+
+<h2>
+  SKILLS
+</h2>
+  <b>Testing:</b> Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Exploratory Testing, End-to-End Testing, Usability Testing, Performance Testing.<br>
+  <b>Tools:</b>Playwright, Cypress, Appium, Jest, Mocha,Postman, Newman,K6, JMeter, JavaScript, TypeScript (OOP),GitHub Actions, Git, CI/CD pipelines,Grafana, Prometheus.
+
 
 
 
