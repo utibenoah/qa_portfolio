@@ -44,6 +44,18 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 
        *  Collaborated with the DevOps team in creating a CI/CD pipeline for the status page [*link*](status.tifi.tv)
 
+<h2>WORK EXPERIENCE</h2>
+
+<b>HNG.Tech</b><br>
+QA Tester | June 2024 – September 2024 (Remote – Full-time – Nigeria)
+HNG Boilerplate
+Conducted API testing with Postman and used JavaScript scripts to validate the functionality and integration of the HNG Boilerplate, resulting in a 40% improvement in development workflow.
+API Testing for AI Video Transcribing & Summarization App
+- Tested all API endpoints using Postman & Newman, ensuring correct error handling, response formats, and data consistency. Improved API reliability by 20% through early defect detection.
+E-Commerce Web Application Testing
+- Developed comprehensive test cases for an ecommerce application that improved defect detection, reduced regression issues and accelerated development cycles by 35%, ensuring high-quality releases aligned with business requirements.
+- Developed Playwright  end-to-end (E2E) automation scripts to validate checkout, authentication, and product management features. Reduced regression testing time by 40% through automation.
+- Worked closely with DevOps to set up a CI/CD pipeline using GitHub Actions for an AI video status dashboard, enabling scheduled automated testing and faster releases.
 
 
 
