@@ -12,7 +12,9 @@
 
 
 
-# ABOUT
+<h2>
+  ABOUT
+</h2>
 
 Detail-oriented Software QA Engineer with over 3+ years of experience in quality assurance, both manual and automated. Proficient in tools such as Playwright, Cypress, Postman, JMeter and Mocha. Adept at collaborating with cross-functional teams to deliver high-quality software that aligns with business requirements and user expectations.
 
