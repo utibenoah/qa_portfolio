@@ -30,7 +30,7 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 
 
 <h2>PROFESSIONAL SUMMARY</h2>
-<br>
+<b></b>
 - Strong knowledge of QA processes, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and Bug Life Cycle with hands-on experience across multiple testing phases.
 - Solid understanding of API design best practices, including naming conventions, parameter usage, structured error handling, consistent response formats, HTTP endpoint organization, atomic operations, and data consistency
 - Experienced in creating and maintaining test documentation including test plans, test cases, and defect reports.
