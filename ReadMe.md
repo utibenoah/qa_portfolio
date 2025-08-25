@@ -8,7 +8,7 @@
 
 <h3 align="center">QA Engineer</h3>
 <p align="center">utibenoaheffiong@gmail.com</p>
-<h3 align="center">GitHub| LinkedIn</h3>
+<p align="center">GitHub| LinkedIn</p>
 
 
 
