@@ -68,11 +68,11 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 </h2>
   ------2024
  <div>
-    BS.c Computer Science, University of Uyo, Nigeria <p align="center">
-  <span style="color:green; font-size:20px;">
+    BS.c Computer Science, University of Uyo, Nigeria 
+  <span align="center">
     ⭐ This text is centered ⭐
   </span>
-</p>
+
  </div>
 
   
