@@ -46,7 +46,10 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 
 
 
-  # PERSONAL PROJECT
+
+<h2>
+  PERSONAL PROJECT
+</h2>
     ## API Test Automation Framework
     This framework design ensures maintainable and readable testcode, relaible test execution with retry mechanisms and clear separtion of concern.[click](link)
 
@@ -60,15 +63,19 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
     * CI/CD; using *github actions* to integrate the test into ci/cd pipeline and generate test report artifacts.
 
 
- # EDUCATION
-   *   BS.c Computer Science, University of Uyo, Uyo, Nigeria
+<h2>
+  EDUCATION
+</h2>
+   *   BS.c Computer Science, University of Uyo, Nigeria                        2024
 
- # CERTIFICATIONS
- 
+ <h2>
+  CERTIFICATIONS
+</h2>
    *   Frontend Engineering Certificate-Top Universe Internship
    *   QA Tester Certificate- HNG.Tech Internship
 
 
- # COURSES
-   *   Software Quality Assurance-Rhmafield Academy
+  <h2>
+  COURSES
+</h2>
    *   Quality Assurance-3MTT
