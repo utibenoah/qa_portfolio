@@ -7,9 +7,8 @@
 </h1>
 
 <h3 align="center">QA Engineer</h3>
-### QA Engineer
-#### utibenoaheffiong@gmail.com
-#### GitHub| LinkedIn
+<h3 align="center">utibenoaheffiong@gmail.com</h3>
+<h3 align="center">GitHub| LinkedIn</h3>
 
 
 
