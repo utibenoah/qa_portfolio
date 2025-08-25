@@ -49,7 +49,7 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 <b>HNG.Tech</b><br>
 QA Tester | June 2024 – September 2024 (Remote – Full-time – Nigeria)
 ### HNG Boilerplate
-Conducted API testing with Postman and used JavaScript scripts to validate the functionality and integration of the HNG Boilerplate, resulting in a 40% improvement in development workflow.
+- Conducted API testing with Postman and used JavaScript scripts to validate the functionality and integration of the HNG Boilerplate, resulting in a 40% improvement in development workflow.
 ### API Testing for AI Video Transcribing & Summarization App
 - Tested all API endpoints using Postman & Newman, ensuring correct error handling, response formats, and data consistency. Improved API reliability by 20% through early defect detection.
 ### E-Commerce Web Application Testing
