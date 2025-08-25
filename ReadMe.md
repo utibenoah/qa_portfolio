@@ -72,7 +72,8 @@ QA Tester | June 2024 – September 2024 (Remote – Full-time – Nigeria)
 
 <b>Dealdrive Technology</b><br>
 Tester | January 2024 – March 2024 (Remote – Contract – Nigeria)
-###Staff Management System
+
+### Staff Management System
 - Analyze application requirements and functional specifications to design comprehensive test scenarios and test cases.
 - Performed API endpoint testing for a digital product that enables organizations to track staff performance and records, contributing to a 30% acceleration in the development cycle.
 - Perform UI verification along with functional and usability testing to ensure a seamless user experience.
