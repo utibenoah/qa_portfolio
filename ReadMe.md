@@ -23,7 +23,7 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 <h2>
   SKILLS
 </h2>
-  Testing: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Exploratory Testing, End-to-End Testing, Usability Testing, Performance Testing..
+  Testing: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Exploratory Testing, End-to-End Testing, Usability Testing, Performance Testing.<br>
   Tools:Playwright, Cypress, Appium, Jest, Mocha,Postman, Newman,K6, JMeter, JavaScript, TypeScript (OOP),GitHub Actions, Git, CI/CD pipelines,Grafana, Prometheus.
 
 
