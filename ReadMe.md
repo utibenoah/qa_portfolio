@@ -15,7 +15,7 @@
 
 
 
-  <span style="color:blue;  font-size:200px;">
+  <span align="center" style="color:blue;  font-size:200px;">
     Utibe Effiong
   </span>
 
