@@ -1,4 +1,4 @@
-# Utibe Effiong
+<h1 align="center">Utibe Effiong</h1>
 ### QA Engineer
 #### utibenoaheffiong@gmail.com
 #### GitHub| LinkedIn
