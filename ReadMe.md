@@ -83,7 +83,7 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
    
    <p align="center">
   <a href="https://github.com">
-    <img src="https://drive.google.com/file/d/1kdVG-chX76PGGZAhSi80FdMmLhvSvR4V/view?usp=" alt="Clickable Image" />
+    <img src="https://drive.google.com/file/d/12mrQoEn-mTl4tgFHbczM_x7SnoB89TkB/view?usp=sharing" alt="Clickable Image" />
   </a>
 </p>
 
