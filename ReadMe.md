@@ -81,7 +81,7 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
    *   Frontend Engineering Certificate-Top Universe Internship
    *    
  
-![QA Tester Certificate- HNG.Tech Internship](HNG Internship 11_Utibe Noah_certificate_page-0001.jpg)
+![QA Tester Certificate- HNG.Tech Internship](https://github.com/utibenoah/QA_portfolio/blob/main/HNG%20Internship%2011_Utibe%20Noah_certificate_page-0001.jpg)
 
 
   <h2>
