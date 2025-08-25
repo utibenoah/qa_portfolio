@@ -27,22 +27,8 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
   <b>Tools:</b>Playwright, Cypress, Appium, Jest, Mocha,Postman, Newman,K6, JMeter, JavaScript, TypeScript (OOP),GitHub Actions, Git, CI/CD pipelines,Grafana, Prometheus.
 
 
- # PROFESSIONAL EXPERIENCES
-  - QA Tester, *HNG.Tech-(2024)*
 
 
-      ### Project: Timbu shop APP 
-       * Collaborated with mobile developers to ensure functionality and quality by developing test for  positive, negative, boundary value and edge case senarios. Validate UI implementation, conducted functional testing,assessed user experience and API integration [*Timbu shop APP Link*]()
-
-      ### Project: HNG Boilerplate
-       *  Conducted API testing and executed Python scripts to Validate the functionality and integration of the HNG boilerplate. (*HNG Boilerplate LINK*)
-
-      ### Project AI for Video Transcribing and Summarization
-       *  Tested all API endpoints used in AI for video/audio summarizer web application(*Postman colection link*).
-       Perform end-to-end testing, regression testing and performance testing.
-       Perform cross browser testing with *Playwrigth*
-
-       *  Collaborated with the DevOps team in creating a CI/CD pipeline for the status page [*link*](status.tifi.tv)
 
 <h2>WORK EXPERIENCE</h2>
 
@@ -56,6 +42,16 @@ QA Tester | June 2024 – September 2024 (Remote – Full-time – Nigeria)
 - Developed comprehensive test cases for an ecommerce application that improved defect detection, reduced regression issues and accelerated development cycles by 35%, ensuring high-quality releases aligned with business requirements.
 - Developed Playwright  end-to-end (E2E) automation scripts to validate checkout, authentication, and product management features. Reduced regression testing time by 40% through automation.
 - Worked closely with DevOps to set up a CI/CD pipeline using GitHub Actions for an AI video status dashboard, enabling scheduled automated testing and faster releases.
+
+
+<b>Dealdrive Technology</b><br>
+Tester | January 2024 – March 2024 (Remote – Contract – Nigeria)
+###Staff Management System
+- Analyze application requirements and functional specifications to design comprehensive test scenarios and test cases.
+- Performed API endpoint testing for a digital product that enables organizations to track staff performance and records, contributing to a 30% acceleration in the development cycle.
+- Perform UI verification along with functional and usability testing to ensure a seamless user experience.
+ -Identify and report defects post-test execution, followed by regression testing to ensure stability of affected modules
+
 
 
 
