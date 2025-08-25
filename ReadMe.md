@@ -13,8 +13,8 @@
 </p>
 
 
- <h2> align="center"> Utibe Effiong</h2>
-<h4 align="center">QA Engineer</h4>
+ <h3 align="center"> Utibe Effiong</h3>
+<h5 align="center">QA Engineer</h5>
 <p align="center">utibenoaheffiong@gmail.com</p>
 <p align="center">GitHub| LinkedIn</p>
 
