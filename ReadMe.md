@@ -1,4 +1,10 @@
-<h1 style="color:blue align:center" >Utibe Effiong</h1>
+
+
+<h1 align="center">
+  <span style="color:blue;">
+    Utibe Effiong
+  </span>
+</h1>
 
 <h3 align="center">QA Engineer</h3>
 ### QA Engineer
