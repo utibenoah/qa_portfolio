@@ -1,23 +1,21 @@
-#                                       UTIBE EFFIONG
- 
-#  Email: *utibenaoheffiong@gmail.com* , *+2348069002571*  LinkIn: *linkedin.com/in/utibenaoheffiong*
+# Utibe Effiong
+### QA Engineer
+#### utibenoaheffiong@gmail.com
+#### GitHub| LinkedIn
 
 
- # ABOUT ME
 
- I am a detailed oriented software QA engineer with 4+ years of experience in manual and automated testing. Aim to collaborate with development teams to ensure products meet quality standard and acceptance criteria. I specialize in APIs tesing, functional testing, usability testing,regression testing, end-to-end testing, exploratory testing, test framework design and creating robust test strategies to ensure seamless user experiences. I'm passionate about learning, sharing insights and connecting with professional who value quality in software.
+# ABOUT
+
+Detail-oriented Software QA Engineer with over 3+ years of experience in quality assurance, both manual and automated. Proficient in tools such as Playwright, Cypress, Postman, JMeter and Mocha. Adept at collaborating with cross-functional teams to deliver high-quality software that aligns with business requirements and user expectations.
 
 
- # SKILLS AND TOOLS
-   * Funtionality testing
-   * Usability testing
-   * End-to-End testing
-   * Exploratory testing
-   * API testing
-   * Regression testing and
-   * Test framework Design  
 
-        - TOOLS: Playwrigth, Cypress, JavaScript, jira, git, github action, postman, newman, k6
+
+# SKILLS
+  Testing: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Exploratory Testing, End-to-End Testing, Usability Testing, Performance Testing..
+  Tools:Playwright, Cypress, Appium, Jest, Mocha,Postman, Newman,K6, JMeter, JavaScript, TypeScript (OOP),GitHub Actions, Git, CI/CD pipelines,Grafana, Prometheus.
+
 
 
  # PROFESSIONAL EXPERIENCES
