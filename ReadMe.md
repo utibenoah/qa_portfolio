@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://github.com/your-repo">
+    <img src="https://github.com/utibenoah/QA_portfolio/blob/main/HNG%20Internship%2011_Utibe%20Noah_certificate_page-0001.jpg" alt="Clickable Image" width="200" height="200"/>
+  </a>
+</p>
 
 <h1 align="center">
   <span style="color:blue;  font-size:200px;">
