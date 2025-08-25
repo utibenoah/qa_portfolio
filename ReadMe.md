@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/utibenoah/QA_portfolio/blob/main/HNG%20Internship%2011_Utibe%20Noah_certificate_page-0001.jpg">
-    <img src="https://via.placeholder.com/300" 
+  <a href="">
+    <img src="https://github.com/utibenoah/QA_portfolio/blob/main/HNG%20Internship%2011_Utibe%20Noah_certificate_page-0001.jpg" 
          alt="Clickable Image" 
          width="150" 
          height="150" 
