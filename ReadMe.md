@@ -79,12 +79,12 @@ Tester | January 2024 – March 2024 (Remote – Contract – Nigeria)
     <b>API Test Automation Framework</b><br>
     This framework design ensures maintainable and readable testcode, relaible test execution with retry mechanisms and clear separtion of concern.[click](link)
 
-  ### Implentation Pattern
+  #### Implentation Pattern
   - API Client; to encapsulate Http operations and session management.
   - Custom assertions; implement using *chai assertion library* to allow testcases to focus on the intent rather than the mechanics of verifications
   - Contract Testing; implement using *Json Schema* to test the contracts indepently of the actual implementation, ensuring that changes in one service dont break the functionality for the other.
 
-  ### Others Utilies
+  #### Others Utilies
   - Logging; implement using *winston.js* to collect the test execution log process
   - CI/CD; using *github actions* to integrate the test into ci/cd pipeline and generate test report artifacts.
 
