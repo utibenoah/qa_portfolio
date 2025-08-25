@@ -27,6 +27,18 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
   <b>Tools:</b>Playwright, Cypress, Appium, Jest, Mocha,Postman, Newman,K6, JMeter, JavaScript, TypeScript (OOP),GitHub Actions, Git, CI/CD pipelines,Grafana, Prometheus.
 
 
+<b>PROFESSIONAL SUMMARY</b>
+- Strong knowledge of QA processes, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and Bug Life Cycle with hands-on experience across multiple testing phases.
+- Solid understanding of API design best practices, including naming conventions, parameter usage, structured error handling, consistent response formats, HTTP endpoint organization, atomic operations, and data consistency
+- Experienced in creating and maintaining test documentation including test plans, test cases, and defect reports.
+- Proficient in API testing using Postman, with a focus on validating error handling, response structures, and data integration across application modules.
+- Executed smoke and sanity testing to verify that new features and bug fixes function correctly in each software build.
+- Strong knowledge of  performance testing APIs using K6 and JMeter, focusing on response time, throughput, and system reliability.
+- Skilled in conducting exploratory, regression, functional, end-to-end, and usability testing to validate compliance with business requirements.
+- Well-versed in test case design techniques including Equivalence Partitioning, Boundary Value Analysis (BVA), Decision Tables, and State Transition techniques to develop comprehensive and effective test cases
+- Skilled in developing and executing end-to-end automation scripts using Playwright and Cypress for efficient web application testing.
+- Proficient in Object-Oriented Programming (OOP) principles using JavaScript in client/server environments such as Node.js and Express.
+- Excellent communication, documentation, problem-solving, and team collaboration skills
 
 
 
