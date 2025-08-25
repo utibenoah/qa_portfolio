@@ -16,14 +16,14 @@
   ABOUT
 </h2>
 
-Detail-oriented Software QA Engineer with over 3+ years of experience in quality assurance, both manual and automated. Proficient in tools such as Playwright, Cypress, Postman, JMeter and Mocha. Adept at collaborating with cross-functional teams to deliver high-quality software that aligns with business requirements and user expectations.
+Detail-oriented Software QA Engineer with over 3+ years of experience in quality assurance, both manual and automated. Proficient in tools such as <b>Playwright, Cypress, Postman, JMeter and Mocha</b>. Adept at collaborating with cross-functional teams to deliver high-quality software that aligns with business requirements and user expectations.
 
 
 
 <h2>
   SKILLS
 </h2>
-  <b>>Testing:</b> Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Exploratory Testing, End-to-End Testing, Usability Testing, Performance Testing.<br>
+  <b>Testing:</b> Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Exploratory Testing, End-to-End Testing, Usability Testing, Performance Testing.<br>
   <b>Tools:</b>Playwright, Cypress, Appium, Jest, Mocha,Postman, Newman,K6, JMeter, JavaScript, TypeScript (OOP),GitHub Actions, Git, CI/CD pipelines,Grafana, Prometheus.
 
 
