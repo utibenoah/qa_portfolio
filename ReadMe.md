@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="">
-    <img src="https://github.com/utibenoah/QA_portfolio/blob/main/huy-removebg-preview.jpg" 
+    <img src="https://github.com/utibenoah/QA_portfolio/blob/main/huy-removebg-preview-modified.png" 
          alt="Clickable Image" 
-         width="150" 
-         height="150" 
+         width="200" 
+         height="200" 
          style="border-radius:50%;" />
   </a>
 
