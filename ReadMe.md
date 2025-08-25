@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">
+<h1 >
   <span style="color:blue;  font-size:200px;">
     Utibe Effiong
   </span>
