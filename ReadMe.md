@@ -16,7 +16,8 @@
  <h3 align="center"> Utibe Effiong</h3>
 <h5 align="center">QA Engineer</h5>
 <p align="center">utibenoaheffiong@gmail.com</p>
-<p align="center">GitHub [OpenAI Website](https://openai.com)| LinkedIn</p>
+<p align="center">GitHub <a href="https://openai.com" target="_blank">Visit OpenAI</a>
+| LinkedIn</p>
 
 
 
