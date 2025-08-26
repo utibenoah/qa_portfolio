@@ -105,6 +105,10 @@ Tester | January 2024 – March 2024 (Remote – Contract – Nigeria)
 
 
 
+</h2>
+    <b><a href="https://github.com/utibenoah/testing_asynchronous_code
+" target="_blank">Testing Asynchronous Code</a> 
+</b><br>
 
 <h2>
   EDUCATION
