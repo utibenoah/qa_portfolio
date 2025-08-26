@@ -21,6 +21,8 @@
 
 
 
+
+
 <h2>
   ABOUT
 </h2>
@@ -88,7 +90,7 @@ Tester | January 2024 – March 2024 (Remote – Contract – Nigeria)
 <h2>
   PERSONAL PROJECT
 </h2>
-    <b>API Test Automation Framework 
+    <b><a href="https://github.com/utibenoah/QA_portfolio/blob/main/ReadMe.md" target="_blank">API Test Automation Framework</a> 
 </b><br>
     This framework design ensures maintainable and readable testcode, relaible test execution with retry mechanisms and clear separtion of concern.
     
