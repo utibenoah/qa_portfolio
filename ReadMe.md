@@ -16,8 +16,8 @@
  <h3 align="center"> Utibe Effiong</h3>
 <h5 align="center">QA Engineer</h5>
 <p align="center">utibenoaheffiong@gmail.com</p>
-<p align="center"><a href="https://github.com/utibenoah/QA_portfolio/blob/main/ReadMe.md" target="_blank">GitHub </a>
-|<a href="https://github.com/utibenoah/QA_portfolio/blob/main/ReadMe.md" target="_blank">LinkedIn</a></p>
+<p align="center">
+|<a href="https://github.com/utibenoah/qa_portfolio/blob/main/ReadMe.md" target="_blank">LinkedIn</a></p>
 
 
 
@@ -65,12 +65,15 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 QA Tester | June 2024 – September 2024 (Remote – Full-time – Nigeria)
 ### HNG Boilerplate
 - Conducted API testing with Postman and used JavaScript scripts to validate the functionality and integration of the HNG Boilerplate, resulting in a 40% improvement in development workflow.
-### API Testing for AI Video Transcribing & Summarization App
-- Tested all API endpoints using Postman & Newman, ensuring correct error handling, response formats, and data consistency. Improved API reliability by 20% through early defect detection.
-### E-Commerce Web Application Testing
-- Developed comprehensive test cases for an ecommerce application that improved defect detection, reduced regression issues and accelerated development cycles by 35%, ensuring high-quality releases aligned with business requirements.
-- Developed Playwright  end-to-end (E2E) automation scripts to validate checkout, authentication, and product management features. Reduced regression testing time by 40% through automation.
-- Worked closely with DevOps to set up a CI/CD pipeline using GitHub Actions for an AI video status dashboard, enabling scheduled automated testing and faster releases.
+### AI Video Transcribing & Summarization Web Application
+-  Tested  API endpoints using Postman & Newman, ensuring correct error handling, response formats, and data consistency. Improved API reliability by 20% through early defect detection.
+-  Executed UI verification and usability testing, ensuring seamless user interactions and boosting application quality by 30%.
+-  Developed  end-to-end (E2E) automation scripts using Playwright to verify real-world scenarios, reducing production defects and enhancing user satisfaction..
+-  Worked closely with DevOps to set up a CI/CD pipeline using GitHub Actions for an AI video status dashboard, enabling scheduled automated testing for faster releases.
+
+### Timbu Shop Mobile Application
+-  Developed comprehensive test cases for an ecommerce application that improved defect detection, reduced regression issues and accelerated development cycles by 35%, ensuring high--  -  quality releases aligned with business requirements.
+-  Execute test cases, log bugs, and write test reports.
 
 
 <b>Dealdrive Technology</b><br>
