@@ -26,7 +26,7 @@
   ABOUT
 </h2>
 
-Detail-oriented Software QA Engineer with over 3+ years of experience in quality assurance, both manual and automated. Proficient in tools such as <b>Playwright, Cypress, Postman, JMeter and Mocha</b>. Adept at collaborating with cross-functional teams to deliver high-quality software that aligns with business requirements and user expectations.
+Detail-oriented Software QA tester with over 3+ years of experience in quality assurance, both manual and automated testing. Having strong knowledge of QA processes, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and Bug Life Cycle with hands-on experience across multiple testing phases. Proficient in tools such as Playwright, Cypress, Postman, and K6. Adept at collaborating with cross-functional teams to deliver high-quality software that aligns with business requirements and user expectations.
 
 
 
@@ -34,17 +34,14 @@ Detail-oriented Software QA Engineer with over 3+ years of experience in quality
 <h2>PROFESSIONAL SUMMARY</h2>
 
 ### 
-- Strong knowledge of QA processes, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and Bug Life Cycle with hands-on experience across multiple testing phases.
-- Solid understanding of API design best practices, including naming conventions, parameter usage, structured error handling, consistent response formats, HTTP endpoint organization, atomic operations, and data consistency
-- Experienced in creating and maintaining test documentation including test plans, test cases, and defect reports.
-- Proficient in API testing using Postman, with a focus on validating error handling, response structures, and data integration across application modules.
-- Executed smoke and sanity testing to verify that new features and bug fixes function correctly in each software build.
-- Strong knowledge of  performance testing APIs using K6 and JMeter, focusing on response time, throughput, and system reliability.
-- Skilled in conducting exploratory, regression, functional, end-to-end, and usability testing to validate compliance with business requirements.
-- Well-versed in test case design techniques including Equivalence Partitioning, Boundary Value Analysis (BVA), Decision Tables, and State Transition techniques to develop comprehensive and effective test cases
-- Skilled in developing and executing end-to-end automation scripts using Playwright and Cypress for efficient web application testing.
-- Proficient in Object-Oriented Programming (OOP) principles using JavaScript in client/server environments such as Node.js and Express.
-- Excellent communication, documentation, problem-solving, and team collaboration skills
+-  Solid understanding of API design best practices, including naming conventions, parameter usage, structured error handling, consistent response formats, HTTP endpoint organization, atomic operations, and data consistency
+-  Well-versed in test case design techniques to develop comprehensive and effective test cases
+-  Experienced in creating and maintaining test documentation including test plans, test cases,test scenarios and defect reports.
+-  Proficient in API testing using Postman, with a focus on validating error handling, response structures, and data integration across application modules.
+-  Strong knowledge of  performance testing APIs using K6, focusing on response time, throughput, and system reliability.
+-  Skilled in conducting exploratory, regression, functional, end-to-end, and usability testing to validate compliance with business requirements.
+-  Skilled in developing and executing end-to-end automation scripts  for efficient web application testing.
+-  Excellent communication, documentation, problem-solving, and team collaboration skills
 
 
 
@@ -76,13 +73,13 @@ QA Tester | June 2024 – September 2024 (Remote – Full-time – Nigeria)
 
 
 <b>Dealdrive Technology</b><br>
-Tester | January 2024 – March 2024 (Remote – Contract – Nigeria)
+Tester (Manual) | January 2024 – March 2024 (Remote – Contract – Nigeria)
 
-### Staff Management System
-- Analyze application requirements and functional specifications to design comprehensive test scenarios and test cases.
-- Performed API endpoint testing for a digital product that enables organizations to track staff performance and records, contributing to a 30% acceleration in the development cycle.
-- Perform UI verification along with functional and usability testing to ensure a seamless user experience.
- -Identify and report defects post-test execution, followed by regression testing to ensure stability of affected modules
+### Emergency Responses System
+-  Analyze application requirements and functional specifications to design comprehensive test scenarios and test cases.
+-  Performed API endpoint testing to validate the integration of data across modules, contributing to a 30% acceleration in the development cycle.
+-  Perform UI verification along with functional and usability testing to ensure a seamless user experience.
+-  Identify and report defects post-test execution, followed by regression testing to ensure stability of affected modules
 
 
 
