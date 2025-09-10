@@ -26,7 +26,7 @@
   ABOUT
 </h2>
 
-Detail-oriented Software QA tester with over 3+ years of experience in quality assurance, both manual and automated testing. Having strong knowledge of QA processes, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and Bug Life Cycle with hands-on experience across multiple testing phases. Proficient in tools such as Playwright, Cypress, Postman, and K6. Adept at collaborating with cross-functional teams to deliver high-quality software that aligns with business requirements and user expectations.
+Detail-oriented Software QA engineer with over 3+ years of experience in quality assurance, both manual and automated testing. Having strong knowledge of QA processes, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and Bug Life Cycle with hands-on experience across multiple testing phases. Proficient in tools such as Playwright, Cypress, Postman, and K6. Adept at collaborating with cross-functional teams to deliver high-quality software that aligns with business requirements and user expectations.
 
 
 
